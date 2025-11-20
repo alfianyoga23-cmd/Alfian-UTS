@@ -23,3 +23,11 @@ Ketiga layanan ini terikat dalam hubungan yang jelas. IaaS menjadi fondasi infra
 3. Jawab :
 
 4. <img width="335" height="410" alt="image" src="https://github.com/user-attachments/assets/7a48e20a-5edd-445b-a902-28adf937fb92" />
+
+
+
+
+
+No.3
+
+<img width="866" height="235" alt="image" src="https://github.com/user-attachments/assets/d3b297d9-9c28-4bea-afe9-6c5326803537" />
